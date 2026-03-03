@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello 👋 I'm Fabio Henrique
 
-<!--
-**Fabaooo/Fabaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analytics & Artificial Intelligence Student at IBMEC  
 
-Here are some ideas to get you started:
+📊 Passionate about:
+- Data Analysis
+- Machine Learning
+- Python
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently learning
+- Python
+- SQL
+- Pandas
+- Data Visualization
+
+📫 Contact
+Email: fhenrique.mariano@gmail.com
